@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wrapping SharedPreference</string>
+    <string name="Ok">Ok</string>
+</resources>
